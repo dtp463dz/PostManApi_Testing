@@ -9,22 +9,28 @@ Dưới đây là một số tính năng chính của Postman:
 - Quản lý môi trường: Postman cho phép bạn quản lý nhiều môi trường API khác nhau.expand_more Điều này giúp bạn dễ dàng kiểm thử API trong các môi trường khác nhau (ví dụ: phát triển, thử nghiệm, sản xuất).expand_more
 - Tự động hóa: Postman cung cấp các tính năng tự động hóa giúp bạn tự động hóa các tác vụ kiểm thử API.expand_more
 - Bảo mật: Postman hỗ trợ các tính năng bảo mật như xác thực và ủy quyền.
-Giao diện overview
+- Giao diện overview
 ![image](/img/overview.PNG)
 
 #2. 
 Kiểm thử API cơ bản
 - Các yêu cầu HTTP cơ bản với API khóa học
-Yêu cầu GET 
+
++ Yêu cầu GET 
 ![image](/img/getimg.PNG)
-Yêu cầu POST
-![image](/img/postimg.PNG)
-Yêu cầu PUT
-![image](/img/putimg.PNG)
-Yêu cầu DELETE
-![image](/img/deleteimg.PNG)
-Test 
-Sử dụng biến để lưu 1 URL
+ 
+![image](/img/testt.PNG)
+
++ Yêu cầu POST
+![image](/img/post.PNG)
+![image](/img/posttes.PNG)
+
++ Yêu cầu PUT
+![image](/img/put.PNG)
+![image](/img/testput.PNG)
++ Yêu cầu DELETE
+![image](/img/delete.PNG)
+![image](/img/deltest.PNG)
 
 #3. 
 THỰC HÀNH
